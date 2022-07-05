@@ -44,18 +44,3 @@ section{
     background-repeat: no-repeat;
     padding-bottom: 50px;
 }
-.box1{
-    width: 600px;
-    height: 400px;
-    padding: 20px;
-    margin: 100px auto;
-    box-shadow: 0px 0px 10px 2px grey;
-    ;
-}
-.box2{
-    width: 600px;
-    height: 400px;
-    padding: 20px;
-    margin: 100px auto;
-    box-shadow: 0px 0px 10px 2px grey;
-}
