@@ -1,0 +1,61 @@
+body{
+    font-family: 'Baloo 2', cursive;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: rgb(74, 70, 70);
+    font-weight: 800;
+}
+.orange-color{
+    color: rgb(242, 160, 9);
+}
+p{
+    color: gray;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+
+}
+.half-width img{
+    width: 100%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato,red);
+    padding: 20px 40px ;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+    padding-top: 20px;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.p{
+    color: black;
+}
+.banner-middel{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+.box1{
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px grey;
+    ;
+}
+.box2{
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px grey;
+}
